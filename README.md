@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H4rdy12
 - 👀 I’m interested in all things GIS and remote sensing 🛰 🌍 using both GIS platforms and Python intergration.
-- 🌱 I’m currently learning: How to use satellite deep learning statergiesto to auto-identify land features to apply to my dissertation on Antarctica's megadunes. 
+- 🌱 I’m currently working on: Building DEMs using ASTER for Polar outlet glaciers and improve DEMs within internal ice sheets. How to use satellite deep learning statergiesto to auto-identify land features to apply to my dissertation on Antarctica's megadunes. 
 - 📫 How to reach me: email: dh4rdy12@gmail.com
 
 <!---
