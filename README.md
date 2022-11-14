@@ -7,3 +7,12 @@
 H4rdy12/H4rdy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div id="badges">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
+   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/anaconda.svg" />
+   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/latex.svg" />
+   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" />
+   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" />
+   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vim.svg" />
+   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/qgis.svg" />
+  </div>
