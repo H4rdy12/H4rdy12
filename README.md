@@ -15,4 +15,8 @@ You can click the Preview link to take a look at your changes.
    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" />
    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vim.svg" />
    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/qgis.svg" />
+   <img height="32" width="32" src="https://simpleicons.org/icons/postgresql.svg" />
+   <img height="32" width="32" src="https://simpleicons.org/icons/c.svg" />
+   <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
+   <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" />
   </div>
