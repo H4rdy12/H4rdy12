@@ -18,3 +18,6 @@ You can click the Preview link to take a look at your changes.
    <img height="32" width="32" src="https://simpleicons.org/icons/c.svg" />
    <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
   </div>
+
+[![H4rdy12's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/H4rdy12/github-readme-stats#gh-dark-mode-only)
+[![H4rdy12's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/H4rdy12/github-readme-stats#gh-light-mode-only)
