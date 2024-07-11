@@ -19,22 +19,23 @@ You can click the Preview link to take a look at your changes.
    <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
   </div>  
 
+<!--
 <div style="display: flex; justify-content: space-between;">
 
-  <!-- GitHub Stats - Dark Mode -->
-  <a href="https://github.com/H4rdy12/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=dark#gh-dark-mode-only" alt="H4rdy12's GitHub stats-Dark" />
-  </a>
-  <!-- GitHub Stats - Light Mode -->
-  <a href="https://github.com/H4rdy12/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=default#gh-light-mode-only" alt="H4rdy12's GitHub stats-Light" />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/H4rdy12/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdy12" alt="Top Langs" />
-  </a>
-
+    [GitHub Stats - Dark Mode](https://github.com/H4rdy12/github-readme-stats#gh-dark-mode-only)
+    ![H4rdy12's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&include_all_commits=true&hide_rank=true&show_owner=true&theme=dark&count_private=true#gh-dark-mode-only)
+    
+    [GitHub Stats - Light Mode](https://github.com/H4rdy12/github-readme-stats#gh-light-mode-only)
+    ![H4rdy12's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=H4rdy12&custom_title=H4rdy12%20GitHub%20Stas&show_icons=true&include_all_commits=true&hide_rank=true&show_owner=true&theme=default&count_private=true#gh-light-mode-only)
+  
+    [Top Languages](https://github.com/H4rdy12/github-readme-stats)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdy12&count_private=true)
+  
 </div>
+-->
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=H4rdy12&repo=github-readme-stats)](https://github.com/H4rdy12/github-readme-stats)
+-->
 
 
