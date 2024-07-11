@@ -19,26 +19,21 @@ You can click the Preview link to take a look at your changes.
    <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
   </div>  
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
 
-  <!-- GitHub Stats -->
-  <div align="left" style="display: inline-block;">
-    <!-- GitHub Stats - Dark Mode -->
-    <a href="https://github.com/H4rdy12/github-readme-stats#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=dark#gh-dark-mode-only" alt="H4rdy12's GitHub stats-Dark" />
-    </a>
-    <!-- GitHub Stats - Light Mode -->
-    <a href="https://github.com/H4rdy12/github-readme-stats#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=default#gh-light-mode-only" alt="H4rdy12's GitHub stats-Light" />
-    </a>
-  </div>
+  <!-- GitHub Stats - Dark Mode -->
+  <a href="https://github.com/H4rdy12/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=dark#gh-dark-mode-only" alt="H4rdy12's GitHub stats-Dark" />
+  </a>
+  <!-- GitHub Stats - Light Mode -->
+  <a href="https://github.com/H4rdy12/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&theme=default#gh-light-mode-only" alt="H4rdy12's GitHub stats-Light" />
+  </a>
 
   <!-- Top Languages -->
-  <div align="right" style="display: inline-block;">
-    <a href="https://github.com/H4rdy12/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdy12" alt="Top Langs" />
-    </a>
-  </div>
+  <a href="https://github.com/H4rdy12/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdy12" alt="Top Langs" />
+  </a>
 
 </div>
 
