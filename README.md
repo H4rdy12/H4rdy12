@@ -19,6 +19,9 @@ You can click the Preview link to take a look at your changes.
    <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
   </div>  
 
+  ![alt text](dist/github-contribution-grid-snake.svg)
+
+
 <!--
 <div style="display: flex; justify-content: space-between;">
 
