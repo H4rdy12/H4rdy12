@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
    <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
   </div>  
 
-  ![alt text](https://raw.githubusercontent.com/H4rdy12/H4rdy12/main/github-contribution-grid-snake.svg)
+  ![alt text](https://raw.githubusercontent.com/H4rdy12/H4rdy12/output/github-contribution-grid-snake.svg)
 
 
 <!--
