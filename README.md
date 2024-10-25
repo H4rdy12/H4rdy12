@@ -26,23 +26,3 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 
-<!--
-<div style="display: flex; justify-content: space-between;">
-
-    [GitHub Stats - Dark Mode](https://github.com/H4rdy12/github-readme-stats#gh-dark-mode-only)
-    ![H4rdy12's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=H4rdy12&show_icons=true&include_all_commits=true&hide_rank=true&show_owner=true&theme=dark&count_private=true#gh-dark-mode-only)
-    
-    [GitHub Stats - Light Mode](https://github.com/H4rdy12/github-readme-stats#gh-light-mode-only)
-    ![H4rdy12's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=H4rdy12&custom_title=H4rdy12%20GitHub%20Stas&show_icons=true&include_all_commits=true&hide_rank=true&show_owner=true&theme=default&count_private=true#gh-light-mode-only)
-  
-    [Top Languages](https://github.com/H4rdy12/github-readme-stats)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdy12&count_private=true)
-  
-</div>
--->
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=H4rdy12&repo=github-readme-stats)](https://github.com/H4rdy12/github-readme-stats)
--->
-
-
