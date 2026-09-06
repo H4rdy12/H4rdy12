@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/qgis.svg">
   <img height="24" src="https://simpleicons.org/icons/postgresql.svg">
   <img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/duckdb.svg">
-  <img height="24" src="https://simpleicons.org/icons/c.svg">
-  <img height="24" src="https://simpleicons.org/icons/cplusplus.svg">
+  <!-- <img height="24" src="https://simpleicons.org/icons/c.svg">
+  <img height="24" src="https://simpleicons.org/icons/cplusplus.svg"> -->
 </p>
 
   <picture>
